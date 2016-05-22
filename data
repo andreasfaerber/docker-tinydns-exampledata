@@ -1,0 +1,3 @@
+.your.example::a.ns.your.example:259200
+.your.example::b.ns.your.example:259200
+@your.example::a.mx.your.example::300
